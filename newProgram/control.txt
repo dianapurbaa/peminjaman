@@ -1,0 +1,3 @@
+Menambahkan sebuah file control baru dengan rencana :
+1. menjadikan file ini menjadi controller
+2. Membuat Library Baru
